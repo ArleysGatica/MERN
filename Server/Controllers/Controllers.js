@@ -1,0 +1,5 @@
+export const getPost = (req, res) => res.send([])   
+export const postPost = (req, res) => res.send('POST')
+export const putPost = (req, res) => res.send('PUT')
+export const deletePost = (req, res) => res.send('DELETE')
+export const getPostId = (req, res) => res.send('GET__id')

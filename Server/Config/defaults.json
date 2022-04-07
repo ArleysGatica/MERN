@@ -1,0 +1,9 @@
+{
+    "MERN": {
+        "dbConfig": {
+            "host": "localhost",
+                "port": 3306,
+                    "dbName": "mongodb+srv://Arleys:<mongo123*>@cluster-mern.oa41o.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+        }
+    }
+}    
